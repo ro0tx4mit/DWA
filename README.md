@@ -2,7 +2,7 @@
 
 
 ## About DWA (Recent Notice - 03/04/24)
-DWA is a simple script written in Python3.11 in which it allows users to enter a search term (query) in the command line and darkdump will pull all the deep web sites relating to that query. DWA2.0 is here, enjoy!
+DWA is a simple script written in Python3.11 in which it allows users to enter a search term (query) in the command line and DWA will pull all the deep web sites relating to that query. DWA2.0 is here, enjoy!
 ## Installation
 1) ``git clone https://github.com/ro0tx4mit/DWA``<br/>
 2) ``cd DWA``<br/>
@@ -46,7 +46,7 @@ options:
 
 
 ## Ethical Notice
-The developer of this program, Josh Schiavone, is not resposible for misuse of this data gathering tool. Do not use darkdump to navigate websites that take part in any activity that is identified as illegal under the laws and regulations of your government. May God bless you all. 
+The developer of this program, Amit Kumar Bisoyi, is not resposible for misuse of this data gathering tool. Do not use DWA to navigate websites that take part in any activity that is identified as illegal under the laws and regulations of your government. May God bless you all. 
 
 ## License 
 MIT License<br/>
